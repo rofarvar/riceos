@@ -3,4 +3,4 @@ RiceOS 4.0 Web. It's a web-based operating system with access to a rudimentary w
 
 <img width="1206" height="908" alt="Screenshot 2025-09-02 161714" src="https://github.com/user-attachments/assets/312756d8-ad65-49d3-9f60-50d20839acc8" />
 
-By Varreira.com. Written in Scratch by RiceGroup (<a href="scratch.mit.edu/users/ricegroup">scratch.mit.edu/users/ricegroup</a>)
+By Varreira.com. Written in Scratch by RiceGroup (<a href="https://scratch.mit.edu/users/ricegroup">scratch.mit.edu/users/ricegroup</a>)
