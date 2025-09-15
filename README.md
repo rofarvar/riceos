@@ -1,5 +1,8 @@
-# RiceOS (Try it now: <a href="https://riceos.varreira.com/trynow.html"> Click me pwetty pwease </a>)
-RiceOS 4.0 Web. It's a web-based operating system with access to a rudimentary web browser and a few other utilities such as a simple calculator and a music editor. It's built using Scratch and compiled to HTML using Turbowarp. I'm currently working on more features, such as a battery detector and (maybe?) even some more advanced functionality (or at least a better word editor or calculator, even before solid 3rd party apps or a file manager that works). Here's a picture of the desktop: 
+# RiceOS (Try it now: <a href="https://riceos.varreira.com/trynow.html"> RiceOS 4 Web </a> <a href="https://riceos.varreira.com/prowebrun.html"> RiceOS 4 Pro </a> <a href="https://riceos.varreira.com/mobile.html"> RiceOS 4 Mobile </a>)
+RiceOS 4 lineup. They're all free, we-based operating system simulators, but with a very different feature set:
+RiceOS 4 Web: basic features, but lightweight and not too complicated.
+RiceOS 4 Pro: Pro features such as word editing, file browser, AI, consistent storage, and more, but removes the music app. 
+RiceOS 4 Mobile: Pro features for mobile.
 
 <img width="1206" height="908" alt="Screenshot 2025-09-02 161714" src="https://github.com/user-attachments/assets/312756d8-ad65-49d3-9f60-50d20839acc8" />
 
